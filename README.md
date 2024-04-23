@@ -3,7 +3,7 @@
 
 İlk Olarak Uygulamayı İndirin,
 
-[Uygulamayı İndir](https://github.com/RelaX0001/RelaX-Boomber/releases/download/RelaX_Sms_Boomber.exe/RelaX_Sms_Boomber.exe)
+[Uygulamayı İndir](https://github.com/RelaX0001/RelaX-Boomber/releases/download/RelaX_Sms_Boomber.exe/RelaX_Boomber.exe)
 
 Sonra Zaten Nasıl Yapcağınız Ekran'da Gözüküyor.
                                          EKRAN-GÖRÜNTÜSÜ
